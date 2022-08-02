@@ -1,0 +1,8 @@
+tornado==6.1
+SQLAlchemy==1.4.39
+SQLAlchemy-Utils==0.38.3
+beautifulsoup4==4.11.1
+terminaltables==3.1.10
+tornado-swagger==1.4.1
+requests==2.28.1
+python-dotenv==0.20.0
